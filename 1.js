@@ -5,5 +5,6 @@ function findLargestNum(num){
   return largest
 }
 
+
 // Or directly using JS Math
 // console.log(Math.max(...num));
